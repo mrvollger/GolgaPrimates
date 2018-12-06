@@ -1,0 +1,5 @@
+/net/eichler/vol2/home/mvollger/assemblies/CHM1/GCA_001297185.1_PacBioCHM1_r2_GenBank_08312015/Segdups/asm.bed
+/net/eichler/vol2/home/mvollger/assemblies/Clint/Clint/Segdups/asm.bed
+/net/eichler/vol2/home/mvollger/assemblies/Gorilla/kamilah/Segdups/asm.bed
+/net/eichler/vol2/home/mvollger/assemblies/macaque/macaque/Segdups/asm.bed
+/net/eichler/vol2/home/mvollger/assemblies/orang/orang/Segdups/asm.bed
